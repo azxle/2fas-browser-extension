@@ -1,0 +1,70 @@
+{
+  "installTitle": {
+    "message": "2FAS 浏览器扩展 | 配置",
+    "description": ""
+  },
+  "installH1": {
+    "message": "开始前，需要先把本扩展与 2FAS Auth 移动应用配对。",
+    "description": ""
+  },
+  "installRecoveredTitle": {
+    "message": "浏览器扩展数据丢失",
+    "description": ""
+  },
+  "installRecoveredMessage": {
+    "message": "扩展的加密密钥已丢失，扩展已被重置，你之前的配对不再有效。请再次与你的设备配对。旧配对已从你的 2FAS 应用中移除；如果它仍在列表中，你可以手动删除。",
+    "description": ""
+  },
+  "installAppInstalled": {
+    "message": "我已安装应用",
+    "description": ""
+  },
+  "installScan": {
+    "message": "用你的 2FAS Auth 移动应用扫描此二维码",
+    "description": ""
+  },
+  "installStep1": {
+    "message": "打开 2FAS Auth 移动应用",
+    "description": ""
+  },
+  "installStep2": {
+    "message": "进入设置 → 浏览器扩展",
+    "description": ""
+  },
+  "installStep3": {
+    "message": "点击“与网页浏览器配对”并扫描二维码",
+    "description": ""
+  },
+  "installSuccessHeader": {
+    "message": "2FAS 浏览器扩展已成功与你的 2FAS Auth 应用配对",
+    "description": ""
+  },
+  "installSuccessSubheader": {
+    "message": "现在你可以在移动应用确认下，快速自动填充两步验证表单。",
+    "description": ""
+  },
+  "installStart": {
+    "message": "了解它如何工作",
+    "description": ""
+  },
+  "installGoToSettings": {
+    "message": "前往设置",
+    "description": ""
+  },
+  "installQuestions": {
+    "message": "有疑问？请阅读我们的",
+    "description": ""
+  },
+  "installBackToStep1": {
+    "message": "返回第 1 步",
+    "description": ""
+  },
+  "installQRTimeoutText": {
+    "message": "二维码已过期",
+    "description": ""
+  },
+  "installQRTimeoutButton": {
+    "message": "点击此处重新生成",
+    "description": ""
+  }
+}

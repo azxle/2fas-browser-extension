@@ -1,0 +1,218 @@
+{
+  "optionsTitle": {
+    "message": "2FAS 浏览器扩展 | 选项",
+    "description": ""
+  },
+  "optionsHeader": {
+    "message": "2FAS 浏览器扩展设置",
+    "description": ""
+  },
+  "optionsIntroHeader": {
+    "message": "2FAS 浏览器扩展介绍",
+    "description": ""
+  },
+  "optionsIntro": {
+    "message": "介绍",
+    "description": ""
+  },
+  "optionsSettings": {
+    "message": "设置",
+    "description": ""
+  },
+  "optionsCheckExt": {
+    "message": "扩展自检",
+    "description": ""
+  },
+  "optionsAbout": {
+    "message": "关于 2FAS",
+    "description": ""
+  },
+  "optionsDonate": {
+    "message": "捐助",
+    "description": ""
+  },
+  "optionsPairedHeader": {
+    "message": "已配对设备：",
+    "description": ""
+  },
+  "optionsAddAnotherDevice": {
+    "message": "添加其他设备",
+    "description": ""
+  },
+  "optionsAutoSubmitSwitchHeader": {
+    "message": "[实验性] 自动提交：",
+    "description": ""
+  },
+  "optionsAutoSubmitSwitchLabel": {
+    "message": "为 2FA 表单启用自动提交",
+    "description": ""
+  },
+  "optionsExcludedDomainsHeader": {
+    "message": "[实验性] 自动提交排除域名：",
+    "description": ""
+  },
+  "optionsRemoveFromExcluded": {
+    "message": "从排除列表中移除",
+    "description": ""
+  },
+  "optionsExcludeAnotherDomain": {
+    "message": "排除域名",
+    "description": ""
+  },
+  "optionsExcludeImportDefault": {
+    "message": "导入默认列表",
+    "description": ""
+  },
+  "optionsDomainModalHeader": {
+    "message": "排除新域名",
+    "description": ""
+  },
+  "optionsDomainModalText": {
+    "message": "你可以用下面的表单把域名加入排除列表，使其不被自动提交机制处理。",
+    "description": ""
+  },
+  "optionsDomainInputPlaceholder": {
+    "message": "输入要排除的域名……",
+    "description": ""
+  },
+  "optionsLogsLabel": {
+    "message": "允许 2FAS 浏览器扩展记录日志",
+    "description": ""
+  },
+  "optionsLogsDesc": {
+    "message": "允许我们收集你浏览器中与 2FAS 浏览器扩展错误相关的匿名日志，帮助我们改进扩展。",
+    "description": ""
+  },
+  "optionsContextMenuLabel": {
+    "message": "在右键菜单中显示 2FAS 浏览器扩展选项",
+    "description": ""
+  },
+  "optionsPushDesc": {
+    "message": "选择一种通知方式，在使用本浏览器扩展与 2FAS Auth 移动应用通信时提醒你。",
+    "description": ""
+  },
+  "optionsPushCustom": {
+    "message": "2FAS 自定义通知",
+    "description": ""
+  },
+  "optionsPushNative": {
+    "message": "浏览器原生通知",
+    "description": ""
+  },
+  "optionsPushTest": {
+    "message": "测试推送通知",
+    "description": ""
+  },
+  "optionsPushConfigDesc1": {
+    "message": "浏览器原生通知不起作用？",
+    "description": ""
+  },
+  "optionsPushConfigDesc2": {
+    "message": "请确认它已在系统设置中启用",
+    "description": ""
+  },
+  "optionsShortcutFirefoxDesc": {
+    "message": "要设置或修改此快捷键，请进入浏览器设置中的扩展页面，点击齿轮图标并选择“管理扩展快捷键”。",
+    "description": ""
+  },
+  "optionsPinHeader": {
+    "message": "固定 2FAS，验证更快",
+    "description": ""
+  },
+  "optionsPinDesc": {
+    "message": "勾选扩展列表让它显示出来。",
+    "description": ""
+  },
+  "optionsPinSafariStep1": {
+    "message": "右键点击地址栏，选择“自定义工具栏”",
+    "description": ""
+  },
+  "optionsPinSafariStep2": {
+    "message": "在列表中找到 2FAS 图标，把它拖到工具栏",
+    "description": ""
+  },
+  "optionsPinSafariToolbarCustomization": {
+    "message": "自定义工具栏",
+    "description": ""
+  },
+  "optionsDangerZone": {
+    "message": "危险区域",
+    "description": ""
+  },
+  "optionsSafariResetDesc": {
+    "message": "重置扩展会清除你所有的 2FAS 浏览器扩展设置和已配对设备。请务必在完全确定、并清楚会丢失这些设置与配对设备时才执行！此操作不可撤销！",
+    "description": ""
+  },
+  "optionsSafariReset": {
+    "message": "重置浏览器扩展",
+    "description": ""
+  },
+  "optionsDomainRequired": {
+    "message": "域名不能为空",
+    "description": ""
+  },
+  "optionsDomainTooLong": {
+    "message": "域名过长",
+    "description": ""
+  },
+  "optionsDomainIncorrect": {
+    "message": "域名格式不正确",
+    "description": ""
+  },
+  "optionsDomainExists": {
+    "message": "该域名已在排除列表中",
+    "description": ""
+  },
+  "optionsIconDesc": {
+    "message": "为 2FAS 浏览器扩展选择一个图标，自定义它在浏览器中的外观。",
+    "description": ""
+  },
+  "apiBlockedTitle": {
+    "message": "浏览器正在阻止 2FAS",
+    "description": ""
+  },
+  "apiBlockedMessage": {
+    "message": "你的浏览器不允许本扩展连接 2FAS 服务器，因此无法加载已配对设备或请求验证码。要解决它：",
+    "description": ""
+  },
+  "apiBlockedSafariStep1": {
+    "message": "打开 Safari → 设置 → 扩展。",
+    "description": ""
+  },
+  "apiBlockedSafariStep2": {
+    "message": "选择 2FAS，点击“编辑网站”。",
+    "description": ""
+  },
+  "apiBlockedSafariStep3": {
+    "message": "将 2fas.com（或 api2.2fas.com）设为“允许”，然后点击下方的刷新。若两者都未列出，请把“访问其他网站时”设为“允许”。",
+    "description": ""
+  },
+  "apiBlockedStep1": {
+    "message": "打开浏览器的扩展页面，进入 2FAS 的详细信息。",
+    "description": ""
+  },
+  "apiBlockedStep2": {
+    "message": "在“网站访问”（Firefox 中为“权限”）下允许访问 2fas.com，然后点击下方的刷新。",
+    "description": ""
+  },
+  "apiBlockedRefresh": {
+    "message": "刷新",
+    "description": ""
+  },
+  "iconDefault": {
+    "message": "默认",
+    "description": ""
+  },
+  "iconType1": {
+    "message": "类型 1",
+    "description": ""
+  },
+  "iconType2": {
+    "message": "类型 2",
+    "description": ""
+  },
+  "pairDateFormat": {
+    "message": "YYYY年M月D日",
+    "description": ""
+  }
+}

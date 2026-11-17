@@ -1,0 +1,318 @@
+{
+  "errorGeneralTitle": {
+    "message": "错误",
+    "description": ""
+  },
+  "errorGeneralMessage": {
+    "message": "请刷新后重试。",
+    "description": ""
+  },
+  "errorUndefinedErrorTitle": {
+    "message": "出现异常",
+    "description": ""
+  },
+  "errorUndefinedErrorMessage": {
+    "message": "请刷新后重试。",
+    "description": ""
+  },
+  "errorTimeoutTitle": {
+    "message": "超时",
+    "description": ""
+  },
+  "errorTimeoutMessage": {
+    "message": "因超过时间限制而断开连接。请点击重新生成按钮再试一次。",
+    "description": ""
+  },
+  "errorPushExpiredTitle": {
+    "message": "DOMAIN 的推送已过期",
+    "description": ""
+  },
+  "errorPushExpiredMessage": {
+    "message": "请重试。",
+    "description": ""
+  },
+  "errorWebSocketTitle": {
+    "message": "WebSocket 错误",
+    "description": ""
+  },
+  "errorWebSocketMessage": {
+    "message": "WebSocket 请求出现问题。请重试。",
+    "description": ""
+  },
+  "errorOnInstallErrorTitle": {
+    "message": "出现异常",
+    "description": ""
+  },
+  "errorOnInstallErrorMessage": {
+    "message": "请重启浏览器，或打开扩展设置并使用重置浏览器扩展。",
+    "description": ""
+  },
+  "errorExtNameRequiredTitle": {
+    "message": "需要填写扩展名称",
+    "description": ""
+  },
+  "errorExtNameRequiredMessage": {
+    "message": "请输入扩展名称。",
+    "description": ""
+  },
+  "errorExtNameMinLengthTitle": {
+    "message": "扩展名称太短",
+    "description": ""
+  },
+  "errorExtNameMinLengthMessage": {
+    "message": "请输入至少 3 个字符的扩展名称。",
+    "description": ""
+  },
+  "errorExtNameMaxLengthTitle": {
+    "message": "扩展名称太长",
+    "description": ""
+  },
+  "errorExtNameMaxLengthMessage": {
+    "message": "请输入不超过 32 个字符的扩展名称。",
+    "description": ""
+  },
+  "errorConfigFirstTitle": {
+    "message": "需要先完成配置",
+    "description": ""
+  },
+  "errorConfigFirstMessage": {
+    "message": "请先配置 2FAS 扩展。",
+    "description": ""
+  },
+  "errorRemoveDeviceBadDataTitle": {
+    "message": "设备数据错误",
+    "description": ""
+  },
+  "errorRemoveDeviceBadDataMessage": {
+    "message": "请刷新后重试。",
+    "description": ""
+  },
+  "errorRemoveDomainBadDataTitle": {
+    "message": "域名数据错误",
+    "description": ""
+  },
+  "errorRemoveDomainBadDataMessage": {
+    "message": "请刷新后重试。",
+    "description": ""
+  },
+  "errorStorageCorruptedTitle": {
+    "message": "扩展存储已损坏",
+    "description": ""
+  },
+  "errorStorageCorruptedMessage": {
+    "message": "我们会尝试为你修复，请稍候。",
+    "description": ""
+  },
+  "errorInactiveTabTitle": {
+    "message": "标签页未激活",
+    "description": ""
+  },
+  "errorInactiveTabMessage": {
+    "message": "请刷新此标签页以使用 2FAS 浏览器扩展。",
+    "description": ""
+  },
+  "errorLackOfTabTitle": {
+    "message": "你的标签页已关闭",
+    "description": ""
+  },
+  "errorLackOfTabMessage": {
+    "message": "该请求将被忽略",
+    "description": ""
+  },
+  "errorInputNotExistTitle": {
+    "message": "输入元素不存在",
+    "description": ""
+  },
+  "errorInputNotExistMessage": {
+    "message": "请刷新后重试。",
+    "description": ""
+  },
+  "errorStorageIntegrityTitle": {
+    "message": "浏览器扩展数据错误",
+    "description": ""
+  },
+  "errorStorageIntegrityMessage": {
+    "message": "请在下方使用重置浏览器扩展，并再次与你的设备配对，或在 Discord 上联系 2FAS 社区支持",
+    "description": ""
+  },
+  "errorStorageRecoveredTitle": {
+    "message": "浏览器扩展数据丢失",
+    "description": ""
+  },
+  "errorStorageRecoveredMessage": {
+    "message": "扩展的加密密钥已丢失，扩展已被重置。请再次与你的设备配对。",
+    "description": ""
+  },
+  "errorResetPendingTitle": {
+    "message": "等待连接",
+    "description": ""
+  },
+  "errorResetPendingMessage": {
+    "message": "扩展已重置，但暂时无法连接 2FAS 服务器。恢复联网后它会自动完成注册——本页面会自行刷新。",
+    "description": ""
+  },
+  "errorOldRequestTitle": {
+    "message": "请求已过期",
+    "description": ""
+  },
+  "errorOldRequestMessage": {
+    "message": "你似乎在响应一个已过期、无法再执行的请求",
+    "description": ""
+  },
+  "errorTokenNotDeliveredTitle": {
+    "message": "验证码未能送达",
+    "description": ""
+  },
+  "errorTokenNotDeliveredMessage": {
+    "message": "页面无法接收你的 2FA 验证码。请重新加载页面并再次请求验证码。",
+    "description": ""
+  },
+  "errorDeviceUnpairedTitle": {
+    "message": "设备已取消配对",
+    "description": ""
+  },
+  "errorDeviceUnpairedMessage": {
+    "message": "请求过程中该设备已取消配对。请重新配对你的设备。",
+    "description": ""
+  },
+  "errorNoInternetTitle": {
+    "message": "没有网络连接",
+    "description": ""
+  },
+  "errorNoInternetMessage": {
+    "message": "请检查你的网络连接后重试。",
+    "description": ""
+  },
+  "errorDevicesUnavailableTitle": {
+    "message": "无法访问 2FAS 服务",
+    "description": ""
+  },
+  "errorDevicesUnavailableMessage": {
+    "message": "我们无法验证你的已配对设备。请检查网络连接后重试。",
+    "description": ""
+  },
+  "errorApiAccessBlockedTitle": {
+    "message": "浏览器正在阻止 2FAS",
+    "description": ""
+  },
+  "errorApiAccessBlockedMessage": {
+    "message": "你的浏览器不允许本扩展连接 2FAS 服务器。打开扩展设置查看如何允许它。",
+    "description": ""
+  },
+  "errorSigningRequiredTitle": {
+    "message": "需要重新建立连接",
+    "description": ""
+  },
+  "errorSigningRequiredMessage": {
+    "message": "本浏览器扩展已无法安全连接 2FAS。请打开扩展设置，使用重置浏览器扩展，并再次与你的设备配对。",
+    "description": ""
+  },
+  "errorSigningKeyConflictTitle": {
+    "message": "需要重新配对",
+    "description": ""
+  },
+  "errorSigningKeyConflictMessage": {
+    "message": "本浏览器扩展无法向 2FAS 注册它的安全密钥。请打开扩展设置，使用重置浏览器扩展，并再次与你的设备配对。",
+    "description": ""
+  },
+  "warningTooSoonTitle": {
+    "message": "请稍候",
+    "description": ""
+  },
+  "warningTooSoonMessage": {
+    "message": "请等待 DIFF 秒后再发送新的请求。",
+    "description": ""
+  },
+  "successPushSentTitle": {
+    "message": "推送已发送",
+    "description": ""
+  },
+  "successPushSentMessage": {
+    "message": "请查看你的手机并接受登录请求。",
+    "description": ""
+  },
+  "successPushSentClipboardTitle": {
+    "message": "推送已发送",
+    "description": ""
+  },
+  "successPushSentClipboardMessage": {
+    "message": "请查看你的手机并接受登录请求，然后复制验证码并粘贴到网站上正确的输入框。",
+    "description": ""
+  },
+  "successExtNameUpdatedTitle": {
+    "message": "成功",
+    "description": ""
+  },
+  "successExtNameUpdatedMessage": {
+    "message": "扩展名称已更新",
+    "description": ""
+  },
+  "successDeviceDisconnectedTitle": {
+    "message": "成功",
+    "description": ""
+  },
+  "successDeviceDisconnectedMessage": {
+    "message": "设备已断开",
+    "description": ""
+  },
+  "successDomainExcludedTitle": {
+    "message": "成功",
+    "description": ""
+  },
+  "successDomainExcludedMessage": {
+    "message": "域名已加入排除列表",
+    "description": ""
+  },
+  "successDomainExcludedRemovedTitle": {
+    "message": "成功",
+    "description": ""
+  },
+  "successDomainExcludedRemovedMessage": {
+    "message": "域名已从排除列表移除",
+    "description": ""
+  },
+  "infoUnsupportedProtocolTitle": {
+    "message": "提示",
+    "description": ""
+  },
+  "infoUnsupportedProtocolMessage": {
+    "message": "2FAS 扩展仅支持 HTTP 和 HTTPS 协议",
+    "description": ""
+  },
+  "infoBrowserActionWithoutTabTitle": {
+    "message": "提示",
+    "description": ""
+  },
+  "infoBrowserActionWithoutTabMessage": {
+    "message": "2FAS 扩展不支持在浏览器之外使用",
+    "description": ""
+  },
+  "infoCopiedToClipboardTitle": {
+    "message": "已成功复制到剪贴板",
+    "description": ""
+  },
+  "infoCopiedToClipboardMessage": {
+    "message": "现在可以把验证码粘贴到输入框中",
+    "description": ""
+  },
+  "infoTestTitle": {
+    "message": "2FAS 通知",
+    "description": ""
+  },
+  "infoTestMessage": {
+    "message": "你好，这只是一条测试消息",
+    "description": ""
+  },
+  "warningCrossDomainTitle": {
+    "message": "跨域名自动填充",
+    "description": ""
+  },
+  "warningCrossDomainMessage": {
+    "message": "此表单所在的域名（CURRENT_DOMAIN）与主页面（TOP_DOMAIN）不同。仍要继续自动填充吗？",
+    "description": ""
+  },
+  "warningCrossDomainNoAccessMessage": {
+    "message": "此表单位于 CURRENT_DOMAIN，看起来处于跨域 iframe 中。仍要继续自动填充吗？",
+    "description": ""
+  }
+}

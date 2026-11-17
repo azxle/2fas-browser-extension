@@ -1,0 +1,50 @@
+{
+  "january": {
+    "message": "1月",
+    "description": ""
+  },
+  "february": {
+    "message": "2月",
+    "description": ""
+  },
+  "march": {
+    "message": "3月",
+    "description": ""
+  },
+  "april": {
+    "message": "4月",
+    "description": ""
+  },
+  "may": {
+    "message": "5月",
+    "description": ""
+  },
+  "june": {
+    "message": "6月",
+    "description": ""
+  },
+  "july": {
+    "message": "7月",
+    "description": ""
+  },
+  "august": {
+    "message": "8月",
+    "description": ""
+  },
+  "september": {
+    "message": "9月",
+    "description": ""
+  },
+  "october": {
+    "message": "10月",
+    "description": ""
+  },
+  "november": {
+    "message": "11月",
+    "description": ""
+  },
+  "december": {
+    "message": "12月",
+    "description": ""
+  }
+}

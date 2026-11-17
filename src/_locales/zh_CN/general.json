@@ -1,0 +1,234 @@
+{
+  "2fasSupport": {
+    "message": "2FAS 支持",
+    "description": ""
+  },
+  "2fasLogo": {
+    "message": "2FAS 标志",
+    "description": ""
+  },
+  "2fasAuthApp": {
+    "message": "2FAS Auth 应用",
+    "description": ""
+  },
+  "2fasAuthGP": {
+    "message": "Google Play 上的 2FAS Auth",
+    "description": ""
+  },
+  "2fasAuthAP": {
+    "message": "App Store 上的 2FAS Auth",
+    "description": ""
+  },
+  "unknown": {
+    "message": "未知",
+    "description": ""
+  },
+  "unknownOS": {
+    "message": "未知系统",
+    "description": ""
+  },
+  "browserOnOs": {
+    "message": "于",
+    "description": ""
+  },
+  "close": {
+    "message": "关闭",
+    "description": ""
+  },
+  "set": {
+    "message": "设置",
+    "description": ""
+  },
+  "edit": {
+    "message": "编辑",
+    "description": ""
+  },
+  "info": {
+    "message": "信息",
+    "description": ""
+  },
+  "next": {
+    "message": "下一步",
+    "description": ""
+  },
+  "previous": {
+    "message": "上一步",
+    "description": ""
+  },
+  "save": {
+    "message": "保存",
+    "description": ""
+  },
+  "version": {
+    "message": "版本",
+    "description": ""
+  },
+  "yes": {
+    "message": "是",
+    "description": ""
+  },
+  "add": {
+    "message": "添加",
+    "description": ""
+  },
+  "cancel": {
+    "message": "取消",
+    "description": ""
+  },
+  "shortcut": {
+    "message": "快捷键",
+    "description": ""
+  },
+  "icon": {
+    "message": "图标",
+    "description": ""
+  },
+  "options": {
+    "message": "选项",
+    "description": ""
+  },
+  "neverShowAgain": {
+    "message": "不再显示",
+    "description": ""
+  },
+  "isNotSupportedByExt": {
+    "message": "不受 2FAS 扩展支持",
+    "description": ""
+  },
+  "shortcutSetDesc": {
+    "message": "设置快捷键，以便在任意页面打开 2FAS 浏览器扩展。",
+    "description": ""
+  },
+  "shortcutUseDesc": {
+    "message": "使用此快捷键可在任意页面打开 2FAS 浏览器扩展。",
+    "description": ""
+  },
+  "pushNotifications": {
+    "message": "推送通知",
+    "description": ""
+  },
+  "learnMore": {
+    "message": "了解更多",
+    "description": ""
+  },
+  "advanced": {
+    "message": "高级",
+    "description": ""
+  },
+  "playVideo": {
+    "message": "播放视频",
+    "description": ""
+  },
+  "extNicknameHeader": {
+    "message": "扩展昵称",
+    "description": ""
+  },
+  "extNicknameDesc": {
+    "message": "修改 2FAS 浏览器扩展的昵称，它在你的移动设备上可见。你也可以稍后在扩展设置中修改。",
+    "description": ""
+  },
+  "extNicknameLabel": {
+    "message": "此浏览器的昵称：",
+    "description": ""
+  },
+  "extNicknamePlaceholder": {
+    "message": "输入扩展名称……",
+    "description": ""
+  },
+  "openTutorial": {
+    "message": "打开教程",
+    "description": ""
+  },
+  "download": {
+    "message": "下载",
+    "description": ""
+  },
+  "qrCode": {
+    "message": "二维码",
+    "description": ""
+  },
+  "modalDisconnectDeviceHeader": {
+    "message": "断开设备",
+    "description": ""
+  },
+  "modalDisconnectDeviceText": {
+    "message": "你正要把设备“DEVICE_NAME”从本浏览器扩展断开，确定吗？",
+    "description": ""
+  },
+  "modalSafariResetHeader": {
+    "message": "浏览器扩展已重置",
+    "description": ""
+  },
+  "modalSafariResetText": {
+    "message": "你要重置 2FAS 浏览器扩展，确定吗？",
+    "description": ""
+  },
+  "modalExcludeDomainHeader": {
+    "message": "从排除列表中移除域名",
+    "description": ""
+  },
+  "modalExcludeDomainText": {
+    "message": "你正要把域名“DOMAIN”从排除列表中移除，确定吗？",
+    "description": ""
+  },
+  "noPairedDevices": {
+    "message": "未发现已配对的设备",
+    "description": ""
+  },
+  "devicesListOffline": {
+    "message": "无法加载已配对设备——没有网络连接。请重新连接后刷新此页面。",
+    "description": ""
+  },
+  "devicesListError": {
+    "message": "无法加载已配对设备——2FAS 服务不可达。请刷新此页面后重试。",
+    "description": ""
+  },
+  "noExcludedDomains": {
+    "message": "未发现排除的域名",
+    "description": ""
+  },
+  "deviceName": {
+    "message": "设备名称",
+    "description": ""
+  },
+  "pairingDate": {
+    "message": "配对日期",
+    "description": ""
+  },
+  "platform": {
+    "message": "平台",
+    "description": ""
+  },
+  "disconnect": {
+    "message": "断开",
+    "description": ""
+  },
+  "domain": {
+    "message": "域名",
+    "description": ""
+  },
+  "gotIt": {
+    "message": "知道了",
+    "description": ""
+  },
+  "install": {
+    "message": "安装",
+    "description": ""
+  },
+  "2faAuthenticator2FAS": {
+    "message": "两步验证器（2FAS）",
+    "description": ""
+  },
+  "inActiveTabInfo": {
+    "message": "请刷新此标签页以使用 2FAS 浏览器扩展",
+    "description": ""
+  },
+  "extTooltip": {
+    "message": "2FAS - 两步验证",
+    "description": ""
+  },
+  "deviceNamePattern": {
+    "message": "BROWSER · OS (ID)",
+    "description": ""
+  }
+}

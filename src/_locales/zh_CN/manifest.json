@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "2FAS Auth - 两步验证",
+    "description": ""
+  },
+  "appDesc": {
+    "message": "2FAS 浏览器扩展简单、私密且安全：一次点击、一次轻触，验证码自动填入！",
+    "description": ""
+  },
+  "shortcutDesc": {
+    "message": "向 2FAS 发送请求",
+    "description": ""
+  }
+}
